@@ -20,6 +20,10 @@ namespace WindowsFormsApplication1
 		private void button1_Click(object sender, EventArgs e)
 		{
 			MessageBox.Show("test w nowym branchu");
+
+			MessageBox.Show("test w hmm");
+
+			MessageBox.Show("i tak dalej");
 		}
 	}
 }
