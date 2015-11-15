@@ -22,6 +22,8 @@ namespace WindowsFormsApplication1
 			MessageBox.Show("test");
 
 			MessageBox.Show("test w hmm");
+
+			MessageBox.Show("i tak dalej");
 		}
 	}
 }
